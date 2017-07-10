@@ -8,7 +8,7 @@ A Simple React Boilerplate with Semantic Ui to get started learning react
  git clone https://github.com/kennethmervin01/react-with-semantic.git 
 ```
 ### Install Dependencies 
-React Semantic Theme set-up will show on your terminal. Watch the video on this link https://semantic-ui.com/introduction/getting-started.html for more help.
+Note: React Semantic Theme set-up will automatically show on your terminal after all node modules are intalled. Watch the video on this link https://semantic-ui.com/introduction/getting-started.html for more help.
 
 ```bash
  npm install
