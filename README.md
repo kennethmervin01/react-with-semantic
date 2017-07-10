@@ -22,8 +22,17 @@ Go to your semantic folder then build Semantic UI by using gulp(semantic-ui-reac
  ../node_modules/.bin/gulp build
 ```
 
-### Import semantic-ui-react and semantic.min.css
-Finally you can import semantic.min.css and use semantic Ui in your app
+### Test
+In your root directory of your app, run the server script(app will run in webpack-dev-server)
+
+```bash
+ npm run server
+```
+Then visit http://localhost:8081. You will see two button using semantic ui.
+
+
+### Finally Check main.js in app folder to see how it works.
+main.js
 
 ```jsx
 import React from 'react'
